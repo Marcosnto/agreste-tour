@@ -1,0 +1,2 @@
+O arquivo Cidades.txt está endereçado para o Disco Local C, para o funcionamento da aplicação coloca-lo
+lá.
