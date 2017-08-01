@@ -55,7 +55,7 @@ public class Vertice {
     public void calcular_F(float valorG, Vertice vf) {
         for (int i = 0; i < heuristica.size(); i++) {
             if (heuristica.get(i).getNomedestino().getNomeCidade().equalsIgnoreCase(vf.getNomeCidade())) {
-                this.funcao = valorG + heuristica.get(i).getValorHeuristica();
+                this.funcao = valorG + (heuristica.get(i).getValorHeuristica())*0.4f;
                 break;
             }
         }

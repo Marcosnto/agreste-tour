@@ -61,7 +61,7 @@ public class BuscaAestrela {
         float valorGsomado = 0;
         for (int i = 0; i < vi.arestas.size(); i++) {
             if (vi.arestas.get(i).getNomeAresta().getNomeCidade().equals(vf.getNomeCidade())) {
-                valorGsomado = vi.arestas.get(i).getIndice() + vi.arestas.get(i).getDistancia();
+                valorGsomado = (vi.arestas.get(i).getIndice())* 0.5f  + (vi.arestas.get(i).getDistancia())* 0.1f;
             }
         }
 
