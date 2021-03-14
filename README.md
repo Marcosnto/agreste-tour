@@ -12,3 +12,11 @@ no <a href="https://www.brasilchannel.com.br/municipios/index.asp?nome=Sergipe&r
 
 <p>São tomados como fatores de decisão os índices de acidentes e as distâncias (ponto a ponto em linha reta).</p>
 
+<h2>Desenvolvedores</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/kaic-de-oliveira-barros-286723b1/">Kaic Barros</a></li>
+  <li><a href="https://github.com/LaylaJoana">Layla Joana</a></li>
+  <li><a href="https://www.linkedin.com/in/marcosnto/">Marcos Neto</a></li>
+  <li><a href="https://github.com/paulo12345678">Paulo Vitor</a></li>
+<ul>
+
