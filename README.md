@@ -18,5 +18,5 @@ no <a href="https://www.brasilchannel.com.br/municipios/index.asp?nome=Sergipe&r
   <li><a href="https://github.com/LaylaJoana">Layla Joana</a></li>
   <li><a href="https://www.linkedin.com/in/marcosnto/">Marcos Neto</a></li>
   <li><a href="https://github.com/paulo12345678">Paulo Vitor</a></li>
-<ul>
+</ul>
 
